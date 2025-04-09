@@ -5,4 +5,4 @@
 -->
 <h1 align="center">Hi 👋, I'm Anuj S.K.</h1>
 <h3 align="center">A passionate Java development and software engineering</h3>
-<h5 align="center">Part of the Coding Universe🌌💻<h5>
+<h5 align="center">Coding World Citizen 🌍👨‍💻<h5>
