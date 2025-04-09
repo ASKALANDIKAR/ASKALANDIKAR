@@ -1,3 +1,3 @@
-                                                                                    ## Hi👋, I'm Anuj S Kalandikar
+                ## Hi👋, I'm Anuj S Kalandikar
 
 
